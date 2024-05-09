@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 1000px;
+    height: auto;
+}
+
+video{
+    width: 1000px;
+    height: auto;
+}
